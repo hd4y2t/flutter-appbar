@@ -3,4 +3,4 @@
 design appbar
 
 ## Screenshot appbar
-![Screenshot](https://github.com/hd4y2t/flutter-appbar/blob/master/assets/ss.jpeg?raw=true)
+![Screenshot](https://github.com/hd4y2t/flutter-appbar/blob/master/assets/ss.jpeg?raw=true =24x48)
